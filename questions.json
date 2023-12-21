@@ -1,27 +1,154 @@
 [
-    {
-      "question": "Inside which HTML element do we put the JavaScript??",
-      "choice1": "<script>",
-      "choice2": "<javascript>",
-      "choice3": "<js>",
-      "choice4": "<scripting>",
+  {
+      "question": "What does HTML stand for?",
+      "choice1": "Hyper Text Markup Language",
+      "choice2": "Highly Textured Makeup Language",
+      "choice3": "Hyperlink and Text Markup Language",
+      "choice4": "Home Tool Markup Language",
       "answer": 1
-    },
-    {
-      "question": "What is the correct syntax for referring to an external script called 'xxx.js'?",
-      "choice1": "<script href='xxx.js'>",
-      "choice2": "<script name='xxx.js'>",
-      "choice3": "<script src='xxx.js'>",
-      "choice4": "<script file='xxx.js'>",
+  },
+  {
+      "question": "What is the capital city of France?",
+      "choice1": "Berlin",
+      "choice2": "Madrid",
+      "choice3": "Paris",
+      "choice4": "Rome",
       "answer": 3
-    },
-    {
-      "question": " How do you write 'Hello World' in an alert box?",
-      "choice1": "msgBox('Hello World');",
-      "choice2": "alertBox('Hello World');",
-      "choice3": "msg('Hello World');",
-      "choice4": "alert('Hello World');",
+  },
+  {
+      "question": "Which programming language is known as the 'language of the web'?",
+      "choice1": "Java",
+      "choice2": "Python",
+      "choice3": "C++",
+      "choice4": "JavaScript",
       "answer": 4
-      
-    }
-  ]
+  },
+  {
+      "question": "What is the largest planet in our solar system?",
+      "choice1": "Earth",
+      "choice2": "Jupiter",
+      "choice3": "Mars",
+      "choice4": "Venus",
+      "answer": 2
+  },
+  {
+      "question": "Which famous scientist developed the theory of relativity?",
+      "choice1": "Isaac Newton",
+      "choice2": "Albert Einstein",
+      "choice3": "Galileo Galilei",
+      "choice4": "Stephen Hawking",
+      "answer": 2
+  },
+  {
+      "question": "What is the capital of Australia?",
+      "choice1": "Sydney",
+      "choice2": "Melbourne",
+      "choice3": "Canberra",
+      "choice4": "Brisbane",
+      "answer": 3
+  },
+  {
+      "question": "Which element has the chemical symbol 'O'?",
+      "choice1": "Oxygen",
+      "choice2": "Gold",
+      "choice3": "Iron",
+      "choice4": "Silver",
+      "answer": 1
+  },
+  {
+      "question": "What is the currency of Japan?",
+      "choice1": "Yuan",
+      "choice2": "Won",
+      "choice3": "Yen",
+      "choice4": "Ringgit",
+      "answer": 3
+  },
+  {
+      "question": "Who wrote 'Romeo and Juliet'?",
+      "choice1": "William Shakespeare",
+      "choice2": "Jane Austen",
+      "choice3": "Charles Dickens",
+      "choice4": "Mark Twain",
+      "answer": 1
+  },
+  {
+      "question": "Which planet is known as the 'Red Planet'?",
+      "choice1": "Venus",
+      "choice2": "Mars",
+      "choice3": "Jupiter",
+      "choice4": "Saturn",
+      "answer": 2
+  },
+  {
+      "question": "What is the largest ocean on Earth?",
+      "choice1": "Atlantic Ocean",
+      "choice2": "Indian Ocean",
+      "choice3": "Arctic Ocean",
+      "choice4": "Pacific Ocean",
+      "answer": 4
+  },
+  {
+      "question": "Who painted the Mona Lisa?",
+      "choice1": "Vincent van Gogh",
+      "choice2": "Pablo Picasso",
+      "choice3": "Leonardo da Vinci",
+      "choice4": "Claude Monet",
+      "answer": 3
+  },
+  {
+      "question": "What is the capital city of Brazil?",
+      "choice1": "Rio de Janeiro",
+      "choice2": "Brasília",
+      "choice3": "São Paulo",
+      "choice4": "Salvador",
+      "answer": 2
+  },
+  {
+      "question": "In which year did the Titanic sink?",
+      "choice1": "1912",
+      "choice2": "1905",
+      "choice3": "1920",
+      "choice4": "1898",
+      "answer": 1
+  },
+  {
+      "question": "Who is known as the 'Father of Computer Science'?",
+      "choice1": "Ada Lovelace",
+      "choice2": "Charles Babbage",
+      "choice3": "Alan Turing",
+      "choice4": "Bill Gates",
+      "answer": 3
+  },
+  {
+    "question": "Who was the first person to land on the moon?",
+    "choice1": "Neil Armstrong",
+    "choice2": "Buzz Aldrin",
+    "choice3": "Michael Collins",
+    "choice4": "Yuri Gagarin",
+    "answer": 1
+},
+{
+  "question": "Who is the author of the 'Harry Potter' book series?",
+  "choice1": "J.K. Rowling",
+  "choice2": "J.R.R. Tolkien",
+  "choice3": "George R.R. Martin",
+  "choice4": "Suzanne Collins",
+  "answer": 1
+},
+{
+  "question": "Which famous scientist formulated the laws of motion and universal gravitation?",
+  "choice1": "Isaac Newton",
+  "choice2": "Albert Einstein",
+  "choice3": "Galileo Galilei",
+  "choice4": "Nikola Tesla",
+  "answer": 1
+},
+{
+  "question": "What is the largest mammal in the world?",
+  "choice1": "African Elephant",
+  "choice2": "Blue Whale",
+  "choice3": "Giraffe",
+  "choice4": "Polar Bear",
+  "answer": 2
+}
+]
